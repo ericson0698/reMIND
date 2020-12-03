@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="todoCheckBox" type="id" />
+    <item name="newTaskText" type="id" />
+    <item name="newTaskButton" type="id" />
+    <item name="tasksRecyclerView" type="id" />
+    <item name="fab" type="id" />
+</resources>
